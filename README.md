@@ -19,7 +19,7 @@ Latest release of [Sentinel Watch](Sentinel%20Watch/sentinel-signed-5.0.1.apk), 
 
 Dojo, the Samourai backend for your node, is still available and maintained by [PavelTheCoder](https://twitter.com/PavelTheCoder). You can get it here from his Github repo:
 
-- https://github.com/pajasevi/samourai-dojo
+- https://github.com/Dojo-Open-Source-Project/samourai-dojo
 
 With it, you still can use Samourai Wallet and Sentinel Watch in the future in a private and self-hosted fashion. Just pair the apps with your Dojo as usual and you’re fine.
 
