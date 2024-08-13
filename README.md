@@ -10,7 +10,7 @@ For archival purposes and for serving the ones in need, this repo provides the l
 <br>
 Released: 2024-03-29
 <br>
-So far not officially announced by SW, but it contains the latest bug fixes. See this archived page for the [changelog](https://web.archive.org/web/20240416113135/https://docs.samourai.io/en/wallet/releases?ref=blog.samourai.is). **But remember to not use Whirlpool,** since this project is currently non-functional and most likely will throw errors. I did not personally download this file pre-arrest, I took if from [freesamourai.com](https://freesamourai.com/), but I found a [video guide](https://youtu.be/4llMWSHWJes?feature=shared&t=182) of someone using it, uploaded on 2024-04-21, three days prior to the arrest.
+So far not officially announced by SW, but it contains the latest bug fixes. See this archived page for the [changelog](https://web.archive.org/web/20240416113135/https://docs.samourai.io/en/wallet/releases?ref=blog.samourai.is). **But remember to not use Whirlpool,** since this project is currently non-functional and most likely will throw errors. I did not personally download this file pre-arrest, I took if from [freesamourai.com](https://freesamourai.com/) — but I found a [video guide](https://youtu.be/4llMWSHWJes?feature=shared&t=182) of someone using it, uploaded on 2024-04-21, three days prior to the arrest.
 
 
 [`sw-signed-0.99.98i_dexwp.apk`](Samourai%20Wallet/sw-signed-0.99.98i_dexwp.apk) [SIG](Samourai%20Wallet/sw-signed-0.99.98i_dexwp.asc)
@@ -36,14 +36,14 @@ An older version, not recommended to use any more. I personally downloaded this 
 
 #### Sentinel Watch
 
-[`sentinel-signed-5.0.1.apk`](Sentinel%20Watch/sentinel-signed-5.0.1.apk) [SIG]((Sentinel%20Watch/sentinel-signed-5.0.1.asc)
+[`sentinel-signed-5.0.1.apk`](Sentinel%20Watch/sentinel-signed-5.0.1.apk) [SIG](Sentinel%20Watch/sentinel-signed-5.0.1.asc)
 <br>
-[Officially announced:](https://x.com/SamouraiWallet/status/1721612236391637255) 2023-11-06.
+[Officially announced:](https://x.com/SamouraiWallet/status/1721612236391637255) 2023-11-06
 <br>
 Latest version of Sentinel Watch. I personally downloaded this file pre-arrest.
 
-## Verifing the .apk files
-I was able to find the signed messages of TDev on several archive.org pages; this [here](https://web.archive.org/web/20240416113135/https://docs.samourai.io/en/wallet/releases?ref=blog.samourai.is) is the best one. They contain the SHA256 hash value of the corresponding .apk file, signed with [TDev’s key](PGP%20Keys/samouraidev.pgp). This way, you can be sure that it was really build by him. Verify using you favourite PGP tools or simply [keybase.io](https://keybase.io/verify).
+## Verifying the .apk files
+I was able to find the signed messages of TDev on several archive.org pages; this [here](https://web.archive.org/web/20240416113135/https://docs.samourai.io/en/wallet/releases?ref=blog.samourai.is) is the best one. They contain the SHA256 hash value of the corresponding .apk file, signed with [TDev’s key](PGP%20Keys/samouraidev.pgp). This way, you can be sure that it was really build by him. Verify using your favourite PGP tools or simply [keybase.io](https://keybase.io/verify).
 
 
 ## Dojo
